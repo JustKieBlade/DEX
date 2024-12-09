@@ -20,6 +20,7 @@ public class FavoriteDrug : BaseEntity
         DrugStore = drugStore;
     }
 
+    
     /// <summary>
     /// Идентификатор профиля
     /// </summary>
